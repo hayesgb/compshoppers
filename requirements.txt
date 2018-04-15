@@ -1,6 +1,5 @@
 certifi==2018.1.18
 click==6.7
--e git+git@github.com:hayesgb/compshoppers@ab825c0153a6c9d8443348665c2d8dc7fc8e57dd#egg=comparison_shopper_site
 ecos==2.0.5
 Flask==0.12.2
 itsdangerous==0.24
