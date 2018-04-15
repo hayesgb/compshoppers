@@ -1,0 +1,4 @@
+comparison_shopper_site.egg-info/PKG-INFO
+comparison_shopper_site.egg-info/SOURCES.txt
+comparison_shopper_site.egg-info/dependency_links.txt
+comparison_shopper_site.egg-info/top_level.txt
